@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "backblaze-b2": "^1.7.0"
+  },
+  "devDependencies": {
+    "@types/backblaze-b2": "^1.5.6"
+  }
+}
